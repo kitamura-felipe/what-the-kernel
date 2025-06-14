@@ -2,6 +2,8 @@
 
 A powerful tool for visualizing neural network activations in real-time using your webcam or YouTube videos. This project allows you to see how different layers of a neural network process visual information, making it an excellent educational and research tool for understanding deep learning models.
 
+![Example Visualization](example.gif)
+
 ## Features
 
 - Real-time visualization of neural network activations from your webcam
